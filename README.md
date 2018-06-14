@@ -1,2 +1,2 @@
 # Immunology-VR
-Immunology VR played in desktop with HTC Vive system
+Immunology VR played with Oculus Go system
